@@ -1,0 +1,7 @@
+name: Ability
+version: 1.0.0
+main: github.quarytr.abilities.Starter
+commands:
+  ability:
+    description: Ability usage command
+    usage: /ability <THUNDER,FIRE,EXPLODE>
